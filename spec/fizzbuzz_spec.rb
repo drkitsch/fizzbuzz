@@ -1,4 +1,6 @@
-require 'fizzbuzz'
+# require 'fizzbuzz'
+# require './lib/fizzbuzz'
+require_relative '../lib/fizzbuzz'
 
 describe 'fizzbuzz' do
   
